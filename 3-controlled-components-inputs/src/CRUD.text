@@ -1,0 +1,4 @@
+CRUD OPERATIONS
+now what we have done so far is getting items from API and render it on screen.
+the data from API is getting using useEffect hook, which see its dependency that it get data from API during load time.
+we saw how we have maintain the state for error and a rough simulation that if api is not fast how we manage isloading state.
